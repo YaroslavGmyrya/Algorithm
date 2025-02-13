@@ -1,0 +1,9 @@
+/home/useradd/Cmake/cmake2/build/CMakeFiles/main.dir
+/home/useradd/Cmake/cmake2/build/CMakeFiles/edit_cache.dir
+/home/useradd/Cmake/cmake2/build/CMakeFiles/rebuild_cache.dir
+/home/useradd/Cmake/cmake2/build/dynamic/CMakeFiles/MY_LIBD.dir
+/home/useradd/Cmake/cmake2/build/dynamic/CMakeFiles/edit_cache.dir
+/home/useradd/Cmake/cmake2/build/dynamic/CMakeFiles/rebuild_cache.dir
+/home/useradd/Cmake/cmake2/build/static/CMakeFiles/MY_LIBS.dir
+/home/useradd/Cmake/cmake2/build/static/CMakeFiles/edit_cache.dir
+/home/useradd/Cmake/cmake2/build/static/CMakeFiles/rebuild_cache.dir

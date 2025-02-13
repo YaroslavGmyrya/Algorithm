@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/main.dir/src/main.c.o -o main  -Wl,-rpath,/home/useradd/Cmake/cmake2/build/dynamic dynamic/libMY_LIBD.so static/libMY_LIBS.a 

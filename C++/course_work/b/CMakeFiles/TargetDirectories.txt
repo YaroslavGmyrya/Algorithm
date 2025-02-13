@@ -1,0 +1,4 @@
+/home/useradd/course_work/b/CMakeFiles/MY_LIB.dir
+/home/useradd/course_work/b/CMakeFiles/main.dir
+/home/useradd/course_work/b/CMakeFiles/edit_cache.dir
+/home/useradd/course_work/b/CMakeFiles/rebuild_cache.dir

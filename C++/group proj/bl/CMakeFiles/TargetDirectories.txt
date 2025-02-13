@@ -1,0 +1,4 @@
+/home/useradd/group_project/bl/CMakeFiles/MY_LIB.dir
+/home/useradd/group_project/bl/CMakeFiles/main.dir
+/home/useradd/group_project/bl/CMakeFiles/edit_cache.dir
+/home/useradd/group_project/bl/CMakeFiles/rebuild_cache.dir

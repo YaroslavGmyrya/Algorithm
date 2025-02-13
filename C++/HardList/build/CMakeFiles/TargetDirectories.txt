@@ -1,0 +1,4 @@
+/home/useradd/laba16/build/CMakeFiles/MY_LIB.dir
+/home/useradd/laba16/build/CMakeFiles/main.dir
+/home/useradd/laba16/build/CMakeFiles/edit_cache.dir
+/home/useradd/laba16/build/CMakeFiles/rebuild_cache.dir

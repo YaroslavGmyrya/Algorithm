@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMY_LIBS.a CMakeFiles/MY_LIBS.dir/sum.c.o
+/usr/bin/ranlib libMY_LIBS.a

@@ -1,0 +1,4 @@
+/home/useradd/Cmake/cmake1/build/CMakeFiles/MY_LIB.dir
+/home/useradd/Cmake/cmake1/build/CMakeFiles/main.dir
+/home/useradd/Cmake/cmake1/build/CMakeFiles/edit_cache.dir
+/home/useradd/Cmake/cmake1/build/CMakeFiles/rebuild_cache.dir

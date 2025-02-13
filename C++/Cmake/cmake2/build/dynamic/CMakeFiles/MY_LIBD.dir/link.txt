@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libMY_LIBD.so -o libMY_LIBD.so CMakeFiles/MY_LIBD.dir/div.c.o 

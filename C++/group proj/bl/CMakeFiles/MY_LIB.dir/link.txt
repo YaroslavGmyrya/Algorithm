@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMY_LIB.a CMakeFiles/MY_LIB.dir/main.c.o CMakeFiles/MY_LIB.dir/heap_sort_f.c.o CMakeFiles/MY_LIB.dir/other_func.c.o CMakeFiles/MY_LIB.dir/shaker_sort.c.o CMakeFiles/MY_LIB.dir/simple_include_sort.c.o
+/usr/bin/ranlib libMY_LIB.a

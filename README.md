@@ -1,2 +1,2 @@
-# Algorithm-C-C-
+# Algorithm
 First algorithm on C/C++
